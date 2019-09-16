@@ -17,4 +17,5 @@ class Song
   def genre
     @genre
   end
-end
+
+  def class_variables
